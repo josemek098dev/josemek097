@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm Frontend developer with knowingly in FullStack<br><br>🛠 SKILLS  :<br><br>  HTML | CSS  | JS | BOOTSTRAP | MUI <br><br>  MERN: MONGO | EXPRESS | REACT | NODE<br><br> FIGMA | UIUX<br><br>⚙ SKILLS IN PROGRESS :<br><br>  NEXT | TYPESCRIPT <br><br>  PYTHON<br><br><br><br>
+I'm Frontend developer with knowingly in FullStack
+
+🛠 SKILLS  :
+ - HTML | CSS  | JS | BOOTSTRAP | MUI 
+ - MERN: MONGO | EXPRESS | REACT | NODE
+ - FIGMA | UIUX
+
+⚙ SKILLS IN PROGRESS:
+ - NEXT | TYPESCRIPT | TAILWIND
+ - PYTHON
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josemek098dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
