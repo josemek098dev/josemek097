@@ -11,7 +11,7 @@ I'm Frontend developer with knowingly in FullStack
  - PYTHON
 
  💼 My porfolio 
-  - ![Josemek098dev] (https://josemek098dev.netlify.app/)
+  - [Josemek098dev] (https://josemek098dev.netlify.app/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josemek098dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
