@@ -10,6 +10,9 @@ I'm Frontend developer with knowingly in FullStack
  - NEXT | TYPESCRIPT | TAILWIND
  - PYTHON
 
+ 💼 My porfolio 
+  - ![Josemek098dev] (https://josemek098dev.netlify.app/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josemek098dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josemek098dev&theme=dark&hide_border=false)<br/>
